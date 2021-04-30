@@ -36,7 +36,7 @@ Latter was assigned to a project of the company called 'Industlink' to work on t
 Then I learned the **docker basics** and to get a complete overview dockerized a nodejs web app.
 <br>
 <br>
-After that, went through the *Saleor.io E-Commerce website* to get an overview of complete full-stack JavaScript web development.
+After that, went through the *Saleor.io E-Commerce website* to get an overview of **complete full-stack JavaScript web development**.
 <br>
 <br>
 Again was assigned to do an intermediate challenge of *Frontend Mentor* which is a react app called "Rest-Countries".
