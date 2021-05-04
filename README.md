@@ -1,7 +1,7 @@
 <h1>Journey of my first Internship at Nascenia IT Limited</h1>
 <h7> <em> 05/04/2021</h7>
 
-<h3> <em> About me & how I bagged this intership </h3>
+<h3> <em> About me & how I got this opportunity </h3>
 
 Hello, I am Maksuda Islam Lima, an undergraduate final year Software Engineering Student of the Islamic University of Technology. In my 7th semester, 4-1, there is a 9 credit course that is based on doing an internship in an IT Company. Some professors from our university have helped us to get through the recruitment process. One of them forwarded my CV to Nascenia IT Limited, an award-winning software company working for European and North American clients. 
 <br>
