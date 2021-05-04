@@ -1,4 +1,5 @@
 <h1>Journey of my first Internship at Nascenia IT Limited</h1>
+<h7> <em> 05/04/2021</h7>
 
 <h3> <em> About me & how I bagged this intership </h3>
 
@@ -57,7 +58,7 @@ Again was assigned to do an intermediate challenge of *Frontend Mentor* which is
 Here is the deployed link of that app: https://kima063.github.io/rest-countries/
 <br>
 <br>
-<h3><em> Here comes a pretty interresting one for me, got to learn Django! </h3>
+<h3><em> Here comes a pretty interesting one for me, got to learn Django! </h3>
 Completing the react app I started learning **Django** and made a small app following the tutorial of *MDN Web Docs* and later deployed it using *Heroku*. 
 Here is the deployed link of that app: https://limitless-ravine-76607.herokuapp.com/
 <br>
