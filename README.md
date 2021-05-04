@@ -1,5 +1,4 @@
 <h1>Journey of my first Internship at Nascenia IT Limited</h1>
---------------------------------------------------------------------------------------------------------------------------------------------
 
 <h3> <em> About me & how I bagged this intership </h3>
 
