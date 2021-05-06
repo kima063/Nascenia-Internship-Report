@@ -69,4 +69,4 @@ One can check it out from this link <a href="https://sheltered-thicket-81037.her
 <br>
 <h3>Graphql added to the list</h3>
 Graphql is a must after learning rest apis, all the hassles one need to go through for the CRUD opt using rest api are solved by graphql. 
-I really enjoyed reading this one! One can take a look on <a href=" https://graphql-graphene-cookbook.herokuapp.com/graphql">this small thingy</a> I made by following <a href="https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/">this</a> tutorial. 
+I really enjoyed reading this one! I made a small thingy following <a href="https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/">this</a> tutorial. 
