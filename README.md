@@ -20,23 +20,23 @@ Before starting the internship I had little knowledge of ReactJS, so my supervis
 <br>
 <br>
 <h3><em> First thing to learn, ReactJS & JS </h3>
-As the journey started I was given resources to learn **React** and practice small problems of React from <a href="https://www.freecodecamp.org/learn/front-end-libraries/#react">FreeCodeCamp</a>.
-After this, the next task was to solve <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting">Basic Algorithm Scripting</a> from **freeCodeCamp**, along with that I used to read resources like <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects">MDN</a> to acquire knowledge about the built-in functions of JavaScripts. Subsequently started doing <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting">Intermediate Algorithm Scripting</a> not to mention from **FreeCodeCamp** which gave me a hard time solving. During those days, I remember being told by a supervisor of mine to start thinking as a JavaScript developer! 
+As the journey started I was given resources to learn <strong>React</strong> and practice small problems of React from <a href="https://www.freecodecamp.org/learn/front-end-libraries/#react">FreeCodeCamp</a>.
+After this, the next task was to solve <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-algorithm-scripting">Basic Algorithm Scripting</a> from <strong>freeCodeCamp</strong>, along with that I used to read resources like <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects">MDN</a> to acquire knowledge about the built-in functions of JavaScripts. Subsequently started doing <a href="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#intermediate-algorithm-scripting">Intermediate Algorithm Scripting</a> not to mention from <strong>FreeCodeCamp</strong> which gave me a hard time solving. During those days, I remember being told by a supervisor of mine to start thinking as a JavaScript developer! 
 <br>
 <br>
 <h3><em> ReactTS & TypeScript </h3>
-The phase of solving problems and doing exercises from **FreeCodeCamp** ends here. Afterward, I had indulged in learning **TypeScript** both class-based and component-based. Made a small <a href="https://stackblitz.com/edit/counter-reactts">counter</a> using TypeScripts on platforms like *Stackbiltz*. Introduced myself with fast prototyping using web-based tools like CodeSandBox, CodePen, and Stackbiltz. 
+The phase of solving problems and doing exercises from <strong>FreeCodeCamp</strong> ends here. Afterward, I had indulged in learning <strong>TypeScript</strong> both class-based and component-based. Made a small <a href="https://stackblitz.com/edit/counter-reactts">counter</a> using TypeScripts on platforms like <em>Stackbiltz</em>. Introduced myself with fast prototyping using web-based tools like CodeSandBox, CodePen, and Stackbiltz. 
 <br>
 <br>
 <h3><em>An important fundamental thing of web development, html & css, which we neglect the most </h3>
 Worked a bit on a previously done React app by this time was assigned to make a small responsive static landing page using HTML and CSS only
-which was given as a challenge on <a href="https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN">FrontEnd Mentor</a>.
-*I have attached the screenshots of my project to check how it looks like*
+which was given as an intermediate level challenge on <a href="https://www.frontendmentor.io/challenges/easybank-landing-page-WaUhkoDN">FrontEnd Mentor</a>.
+<em>I have attached the screenshots of my project to check how it looks like</em>
 here's the deployed project link
 <a href="https://kima063.github.io/Easy-Bank-Landing-Page//">Here!</a>
 <br>
 <br>
-Then I was again given to learn **CSS** properly from an interactive coding learning platform, <a href="https://www.codecademy.com/learn/learn-css">Codecademy</a>. 
+Then I was again given to learn <strong>CSS</strong> properly from an interactive coding learning platform, <a href="https://www.codecademy.com/learn/learn-css">Codecademy</a>. 
 <br>
 <br>
 <br>
@@ -45,21 +45,21 @@ Latter was assigned to a project of the company called 'Industlink' to work on t
 <br>
 <br>
 <h3><em> Here comes the learning experience of the solution "it works fine on my machine" </h3>
-Then I learned the **docker basics** and to get a complete overview dockerized a nodejs <a href="https://github.com/kima063/nodejs-docker">web app</a>.
+Then I learned the <strong>docker basics</strong> and to get a complete overview dockerized a nodejs <a href="https://github.com/kima063/nodejs-docker">web app</a>.
 <br>
 <br>
 <h3><em> Took a look to another huge E-Commerce project </h3>
-After that, went through the <a href="https://demo.saleor.io/">Saleor.io E-Commerce website</a> to get an overview of **complete full-stack JavaScript web development**.
+After that, went through the <a href="https://demo.saleor.io/">Saleor.io E-Commerce website</a> to get an overview of <strong>complete full-stack JavaScript web development</strong>.
 <br>
 <br>
 
 <h3><em> A small React app, did some practicing there </h3>
-Again was assigned to do an intermediate challenge of *Frontend Mentor* which is a react app called "Rest-Countries".
+Again was assigned to do an advanced level challenge of <strong>Frontend Mentor</strong> which is a react app called "Rest-Countries".
 Here is the deployed link of that app is <a href="https://kima063.github.io/rest-countries/">Here!</a>
 <br>
 <br>
 <h3><em> Here comes a pretty interresting one for me, got to learn Django! </h3>
-Completing the react app I started learning **Django** and made a small app following the tutorial of *MDN Web Docs* and later deployed it using *Heroku*. 
+Completing the react app I started learning <strong>Django</strong> and made a small app following the tutorial of <em>MDN Web Docs</em> and later deployed it using <em>Heroku</em>. 
 The deployed link of that app is <a href="https://limitless-ravine-76607.herokuapp.com/">Here!</a>
 <br>
 <br>
@@ -67,3 +67,5 @@ The deployed link of that app is <a href="https://limitless-ravine-76607.herokua
 Learned how to make Rest API using django as well, followed a tutorial app again and later deployed it using heroku.
 One can check it out from this link <a href="https://sheltered-thicket-81037.herokuapp.com/">Here!</a>
 <br>
+<h3>Graphql added to the list</h3>
+Graphql is a must after learning rest apis, all the hassles one need to go through for the CRUD opt using rest api are solved by graphql. I really enjoyed reading this one! One can take a look on <a href=" https://graphql-graphene-cookbook.herokuapp.com/">this</a> small thingy I made by <a href="https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/">this</a> tutorial. 
