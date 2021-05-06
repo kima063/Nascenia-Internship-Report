@@ -1,6 +1,6 @@
 <h1>Journey of my first Internship at Nascenia IT Limited</h1>
 
-<h3> <em> About me & how I bagged this intership </h3>
+<h3> <em> About me & how I got this opportunity </h3>
 
 Hello, I am Maksuda Islam Lima, an undergraduate final year Software Engineering Student of the Islamic University of Technology. In my 7th semester, 4-1, there is a 9 credit course that is based on doing an internship in an IT Company. Some professors from our university have helped us to get through the recruitment process. One of them forwarded my CV to <a href="https://nascenia.com/">Nascenia IT Limited</a>, an award-winning software company working for European and North American clients. 
 <br>
@@ -68,4 +68,5 @@ Learned how to make Rest API using django as well, followed a tutorial app again
 One can check it out from this link <a href="https://sheltered-thicket-81037.herokuapp.com/">Here!</a>
 <br>
 <h3>Graphql added to the list</h3>
-Graphql is a must after learning rest apis, all the hassles one need to go through for the CRUD opt using rest api are solved by graphql. I really enjoyed reading this one! One can take a look on <a href=" https://graphql-graphene-cookbook.herokuapp.com/">this</a> small thingy I made by <a href="https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/">this</a> tutorial. 
+Graphql is a must after learning rest apis, all the hassles one need to go through for the CRUD opt using rest api are solved by graphql. 
+I really enjoyed reading this one! One can take a look on <a href=" https://graphql-graphene-cookbook.herokuapp.com/">this small thingy</a> I made by following <a href="https://docs.graphene-python.org/projects/django/en/latest/tutorial-plain/">this</a> tutorial. 
