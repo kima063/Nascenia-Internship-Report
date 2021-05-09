@@ -9,7 +9,7 @@ Hello, I am Maksuda Islam Lima, an undergraduate final year Software Engineering
 Nascenia reviewed our CVs and called upon an online interview within a very short period. Despite having a personal dissatisfaction with my performance in the interview, it was still quite a knowledgeable experience. Later on, I was informed about the confirmation of my selection in Nascenia IT Limited as a web development (functioning unit) intern.
 <br>
 <br>
-<h3> <em> First day of Office </h3>
+<h3> <em> First day at Office </h3>
 I, along with 4 other batchmates of mine joined Nascenia on 8th March 2021 and went to their office for the first time to get a warm welcome from the executives and later was introduced to our respective supervisors through a video call by the CTO of the company. 
 Luckily, I got two of the most organized and most helpful supervisors one could ever ask for. 
 <br>
