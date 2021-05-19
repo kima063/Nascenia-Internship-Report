@@ -46,7 +46,7 @@ I was assigned to a project of the company called 'Industlink' to work on the fr
 <br>
 <br>
 <h2>Here comes the learning experience of the solution "it works fine on my machine"</h2>
-Learned the <strong>docker basics</strong> and to get a complete overview dockerized a nodejs <a href="https://github.com/kima063/nodejs-docker">web app</a>.
+Learned the <strong>docker basics</strong> and to get a complete overview dockerized a nodejs <a href="https://github.com/kima063/nodejs-docker">web app</a> following this <a href="https://nodejs.org/en/docs/guides/nodejs-docker-webapp/">site</a>.
 <br>
 <br>
 <h2>Took a look to another huge E-Commerce project</h2>
