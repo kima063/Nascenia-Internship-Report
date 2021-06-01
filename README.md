@@ -67,7 +67,7 @@ Completing the react app I started learning <strong>Django</strong> and made a s
 <br>
 <em>Maintained <a href="https://github.com/kima063/locallibrary"> this repository </a> to keep the project.</em>
 <br>
-The deployed link of that app is <a href="https://limitless-ravine-76607.herokuapp.com/">Here!</a>
+The deployed link of that app is <a href="https://local-library-django-webapp.herokuapp.com/">Here!</a>
 <br>
 <br>
 <h2>Well, Why leaving behind the Rest APIs right? </h2>
