@@ -65,9 +65,9 @@ Here is the deployed link of that app is <a href="https://kima063.github.io/rest
 <h2>Here comes a pretty interresting one for me, got to learn Django!  </h2>
 Completing the react app I started learning <strong>Django</strong> and made a small app following the tutorial of <a href="https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction">MDN Web Docs</a> and later deployed it using <em>Heroku</em>. 
 <br>
-<em>Maintained <a href="https://github.com/kima063/locallibrary"> this repository </a> to keep the project.</em>
+<em>Maintained <a href="https://github.com/kima063/locallibrary-djangoapp"> this repository </a> to keep the project.</em>
 <br>
-The deployed link of that app is <a href="https://local-library-django-webapp.herokuapp.com/">Here!</a>
+The deployed link of that app is <a href="https://local-library-django-app.herokuapp.com/catalog/">Here!</a>
 <br>
 <br>
 <h2>Well, Why leaving behind the Rest APIs right? </h2>
